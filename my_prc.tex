@@ -40,15 +40,15 @@ Authors' institution and/or address}%
 
 \section{Section 1}
 
-\lipsum[1-2] Fake citation. Results can be seen in Figs. \ref{fig:image-1}.
+\lipsum[1-2] Fake citation. Results can be seen in Figs. \ref{image1} and \ref{image2}.
 
-\lipsum[1] Fake citation. \cite{chakraborty2020multiphonon}.
+\lipsum[1] Fake citation. \cite{chakraborty2020multiphonon}. Fake image ref is in Fig. \ref{image3}.
 
 \begin{figure}
     \centering
     \includegraphics[width=0.45\textwidth]{images/energy_ellipsoids/tsd1_spin1.eps}
     \caption{Image 1}
-    \label{fig:image-1}
+    \label{image1}
 \end{figure}
 
 
@@ -56,9 +56,29 @@ Authors' institution and/or address}%
     \centering
     \includegraphics[width=0.45\textwidth]{images/energy_ellipsoids/tsd4_spin2.eps}
     \caption{Image 2}
-    \label{fig:image-2}
+    \label{image2}
 \end{figure}
 
+\begin{figure}
+    \centering
+    \includegraphics[width=0.45\textwidth]{images/energy_ellipsoids/tsd4_spin2.eps}
+    \caption{Image 3}
+    \label{image3}
+\end{figure}
+
+\lipsum[1-2]
+
+
+\lipsum[1-2]
+
+
+\subsection{Faking citations}
+
+In Ref. \cite{guo2020risk} is fake, together with the Figs \ref{image2} and \ref{image3}.
+
+Fake citations \cite{guo2020risk}, and \cite{chen2020interpretation}.
+
+Fake citations \cite{chakraborty2020multiphonon}, and \cite{chen2020interpretation}.
 
 \bibliography{biblio}% Produces the bibliography via BibTeX.
 
