@@ -60,7 +60,8 @@ if(paper_preprint_mode):
 
 log_files = glob.glob('*.log', recursive=True)
 aux_files = glob.glob('*.aux', recursive=True)
-bib_files = glob.glob('*.bib', recursive=True)
+#Do not delete bib files within the latex project
+# bib_files = glob.glob('*.bib', recursive=True)
 pdf_files = glob.glob('*.pdf', recursive=True)
 
 for f in log_files:
@@ -71,13 +72,14 @@ for f in log_files:
     finally:
         print('Finished cleaning logs')
 
-for f in bib_files:
-    try:
-        os.unlink(f)
-    except OSError as e:
-        print(f'Cannot delete file: {e.strerror}')
-    finally:
-        print('Finished cleaning bibs')
+
+# for f in bib_files:
+#     try:
+#         os.unlink(f)
+#     except OSError as e:
+#         print(f'Cannot delete file: {e.strerror}')
+#     finally:
+#         print('Finished cleaning bibs')
 
 for f in aux_files:
     try:
