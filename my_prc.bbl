@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{3}%
+\begin{thebibliography}{1}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,47 +50,12 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Chakraborty}\ \emph {et~al.}(2020)\citenamefont
-  {Chakraborty}, \citenamefont {Sharma}, \citenamefont {Tiwary}, \citenamefont
-  {Majumder}, \citenamefont {Gupta}, \citenamefont {Banerjee}, \citenamefont
-  {Ganguly}, \citenamefont {Rai}, \citenamefont {Kumar}, \citenamefont {Kumar}
-  \emph {et~al.}}]{chakraborty2020multiphonon}%
+\bibitem [{\citenamefont {Bohr}\ and\ \citenamefont
+  {Mottelson}(1998)}]{bohr1998nuclear}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Chakraborty}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Sharma}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Tiwary}}, \bibinfo
-  {author} {\bibfnamefont {C.}~\bibnamefont {Majumder}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Gupta}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Banerjee}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Ganguly}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Rai}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Kumar}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Kumar}}, \emph
-  {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physics
-  Letters B}\ }\textbf {\bibinfo {volume} {811}},\ \bibinfo {pages} {135854}
-  (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Guo}\ \emph {et~al.}(2020)\citenamefont {Guo},
-  \citenamefont {Zhou}, \citenamefont {Petrache}, \citenamefont {Lawrie},
-  \citenamefont {Mthembu}, \citenamefont {Fang}, \citenamefont {Wu},
-  \citenamefont {Wang}, \citenamefont {Meng}, \citenamefont {Li} \emph
-  {et~al.}}]{guo2020risk}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Guo}}, \bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Zhou}}, \bibinfo
-  {author} {\bibfnamefont {C.}~\bibnamefont {Petrache}}, \bibinfo {author}
-  {\bibfnamefont {E.}~\bibnamefont {Lawrie}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Mthembu}}, \bibinfo {author} {\bibfnamefont
-  {Y.}~\bibnamefont {Fang}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Wu}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Wang}}, \bibinfo
-  {author} {\bibfnamefont {H.}~\bibnamefont {Meng}}, \bibinfo {author}
-  {\bibfnamefont {G.}~\bibnamefont {Li}}, \emph {et~al.},\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint arXiv:2011.14354}\
-  } (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Chen}\ and\ \citenamefont
-  {Frauendorf}(2020)}]{chen2020interpretation}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Chen}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Frauendorf}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {arXiv preprint arXiv:2012.03499}\ } (\bibinfo {year} {2020})}\BibitemShut
-  {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Bohr}}\ and\ \bibinfo {author} {\bibfnamefont {B.~R.}\ \bibnamefont
+  {Mottelson}},\ }\href@noop {} {\emph {\bibinfo {title} {Nuclear
+  structure}}},\ Vol.~\bibinfo {volume} {1}\ (\bibinfo  {publisher} {World
+  Scientific},\ \bibinfo {year} {1998})\BibitemShut {NoStop}%
 \end{thebibliography}%

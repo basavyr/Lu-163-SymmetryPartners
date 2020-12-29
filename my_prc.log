@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.25)  26 DEC 2020 08:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.25)  29 DEC 2020 19:59
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **my_prc.tex
 (./my_prc.tex
@@ -302,90 +303,30 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Package epstopdf Info: Source file: <images/energy_ellipsoids/tsd1_spin1.eps>
-(epstopdf)                    date: 2020-12-21 15:19:36
-(epstopdf)                    size: 1216971 bytes
-(epstopdf)             Output file: <images/energy_ellipsoids/tsd1_spin1-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2020-12-24 18:04:35
-(epstopdf)                    size: 149591 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/energy_ellipsoids/t
-sd1_spin1-eps-converted-to.pdf images/energy_ellipsoids/tsd1_spin1.eps>
-(epstopdf)             \includegraphics on input line 49.
-Package epstopdf Info: Output file is already uptodate.
-<images/energy_ellipsoids/tsd1_spin1-eps-converted-to.pdf, id=1, 415.5525pt x 1
-37.51375pt>
-File: images/energy_ellipsoids/tsd1_spin1-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use images/energy_ellipsoids/tsd1_spin1-eps-converted-to.pdf>
-Package pdftex.def Info: images/energy_ellipsoids/tsd1_spin1-eps-converted-to.p
-df  used on input line 49.
-(pdftex.def)             Requested size: 229.49844pt x 75.94543pt.
-Package epstopdf Info: Source file: <images/energy_ellipsoids/tsd4_spin2.eps>
-(epstopdf)                    date: 2020-12-21 15:19:36
-(epstopdf)                    size: 1255585 bytes
-(epstopdf)             Output file: <images/energy_ellipsoids/tsd4_spin2-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2020-12-24 18:04:36
-(epstopdf)                    size: 152007 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/energy_ellipsoids/t
-sd4_spin2-eps-converted-to.pdf images/energy_ellipsoids/tsd4_spin2.eps>
-(epstopdf)             \includegraphics on input line 57.
-Package epstopdf Info: Output file is already uptodate.
-<images/energy_ellipsoids/tsd4_spin2-eps-converted-to.pdf, id=2, 415.5525pt x 1
-37.51375pt>
-File: images/energy_ellipsoids/tsd4_spin2-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use images/energy_ellipsoids/tsd4_spin2-eps-converted-to.pdf>
-Package pdftex.def Info: images/energy_ellipsoids/tsd4_spin2-eps-converted-to.p
-df  used on input line 57.
-(pdftex.def)             Requested size: 229.49844pt x 75.94543pt.
-Package epstopdf Info: Source file: <images/energy_ellipsoids/tsd4_spin2.eps>
-(epstopdf)                    date: 2020-12-21 15:19:36
-(epstopdf)                    size: 1255585 bytes
-(epstopdf)             Output file: <images/energy_ellipsoids/tsd4_spin2-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2020-12-24 18:04:36
-(epstopdf)                    size: 152007 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/energy_ellipsoids/t
-sd4_spin2-eps-converted-to.pdf images/energy_ellipsoids/tsd4_spin2.eps>
-(epstopdf)             \includegraphics on input line 64.
-Package epstopdf Info: Output file is already uptodate.
-File: images/energy_ellipsoids/tsd4_spin2-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use images/energy_ellipsoids/tsd4_spin2-eps-converted-to.pdf>
-Package pdftex.def Info: images/energy_ellipsoids/tsd4_spin2-eps-converted-to.p
-df  used on input line 64.
-(pdftex.def)             Requested size: 229.49844pt x 75.94543pt.
- [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./im
-ages/energy_ellipsoids/tsd1_spin1-eps-converted-to.pdf> <./images/energy_ellips
-oids/tsd4_spin2-eps-converted-to.pdf>] (./my_prc.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
- []\OT1/cmr/m/n/9 Q. Chen and S. Frauen-dorf, arXiv preprint
- []
-
-) [2] (./my_prc.aux) ) 
+) (./my_prc.bbl)
+[1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./my_prc.aux) ) 
 Here is how much of TeX's memory you used:
- 5294 strings out of 479382
- 70834 string characters out of 5869369
- 635450 words of memory out of 5000000
- 22339 multiletter control sequences out of 15000+600000
- 413356 words of font info for 63 fonts, out of 8000000 for 9000
+ 5284 strings out of 479382
+ 70108 string characters out of 5869369
+ 524901 words of memory out of 5000000
+ 22326 multiletter control sequences out of 15000+600000
+ 416597 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,85p,312b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i9.pfb>
-Output written on my_prc.pdf (2 pages, 389099 bytes).
+ 79i,8n,85p,926b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
+b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on my_prc.pdf (1 page, 101438 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
