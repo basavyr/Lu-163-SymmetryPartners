@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.25)  2 JAN 2021 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.25)  2 JAN 2021 21:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,16 +429,16 @@ Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
 
 [6 <./images/contour-tsd1.pdf> <./images/contour-tsd2.pdf
 
-pdfTeX warning: pdflatex (file ./images/contour-tsd2.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/contour-tsd2.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
 > <./images/contour-tsd3.pdf
 
-pdfTeX warning: pdflatex (file ./images/contour-tsd3.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/contour-tsd3.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
 > <./images/contour-tsd4.pdf
 
-pdfTeX warning: pdflatex (file ./images/contour-tsd4.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/contour-tsd4.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
 >]
 
 LaTeX Warning: A float is stuck (cannot be placed) on input line 247.

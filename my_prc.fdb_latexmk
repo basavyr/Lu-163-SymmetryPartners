@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex my_prc"] 1609616221 "my_prc.aux" "my_prc.bbl" "my_prc" 1609616231
+["bibtex my_prc"] 1609616816 "my_prc.aux" "my_prc.bbl" "my_prc" 1609616819
   "/usr/local/texlive/texmf-local/bibtex/bst/revtex/apsrev4-2.bst" 1608960096 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
   "biblio.bib" 1609616164 7208 9748d148df8c5ec498c063d1dd2dfa17 ""
-  "my_prc.aux" 1609616222 5742 a9610529dd7839901b27442498e552ac "pdflatex"
-  "my_prcNotes.bib" 1609616222 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "my_prc.aux" 1609616817 5742 a9610529dd7839901b27442498e552ac "pdflatex"
+  "my_prcNotes.bib" 1609616817 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "my_prc.blg"
   "my_prc.bbl"
-["pdflatex"] 1609616221 "my_prc.tex" "my_prc.pdf" "my_prc" 1609616231
+  "my_prc.blg"
+["pdflatex"] 1609616816 "my_prc.tex" "my_prc.pdf" "my_prc" 1609616819
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1246382020 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -124,11 +124,11 @@
   "images/tsd2_spin1.eps" 1609616164 1169238 d98d5d676cf60699e16a7a91bce74a57 ""
   "images/tsd3_spin1.eps" 1609616164 1154155 3a076a14e4a701278455ebd76312f485 ""
   "images/tsd4_spin1.eps" 1609616164 1173218 35242bb22991227b2992bc3df0469c35 ""
-  "my_prc.aux" 1609616222 5742 a9610529dd7839901b27442498e552ac "pdflatex"
-  "my_prc.bbl" 1609616221 13190 61e5420fe4f4e99a8c9040d01aa8c35c "bibtex my_prc"
+  "my_prc.aux" 1609616817 5742 a9610529dd7839901b27442498e552ac "pdflatex"
+  "my_prc.bbl" 1609616816 13190 61e5420fe4f4e99a8c9040d01aa8c35c "bibtex my_prc"
   "my_prc.tex" 1609616164 35675 815657f25671b02387b3a1f0ae8ebf6a ""
   (generated)
   "my_prc.pdf"
+  "my_prc.log"
   "my_prcNotes.bib"
   "my_prc.aux"
-  "my_prc.log"
