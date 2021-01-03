@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: my_prc.aux
+The style file: apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: my_prcNotes.bib
+Database file #2: biblio.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 21 entries,
+            6079 wiz_defined-function locations,
+            1760 strings with 18521 characters,
+and the built_in function-call counts, 23881 in all, are:
+= -- 1632
+> -- 691
+< -- 132
++ -- 219
+- -- 170
+* -- 3686
+:= -- 2207
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 86
+chr.to.int$ -- 18
+cite$ -- 21
+duplicate$ -- 2127
+empty$ -- 1685
+format.name$ -- 405
+if$ -- 4906
+int.to.chr$ -- 4
+int.to.str$ -- 29
+missing$ -- 329
+newline$ -- 115
+num.names$ -- 63
+pop$ -- 904
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 1014
+stack$ -- 0
+substring$ -- 554
+swap$ -- 2050
+text.length$ -- 82
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 315
+warning$ -- 0
+while$ -- 63
+width$ -- 0
+write$ -- 218
